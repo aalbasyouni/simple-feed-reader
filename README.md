@@ -1,4 +1,4 @@
-# Simple Feed Reader
+# Simple Feed Reader Application
 
 This is a sample application used for [Azure guidance](https://docs.microsoft.com/aspnet/core/azure/?view=aspnetcore-2.1) tutorials.
 
